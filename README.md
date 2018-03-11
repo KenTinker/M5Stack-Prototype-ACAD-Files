@@ -1,2 +1,3 @@
 # M5Stack-Prototype-ACAD-Files
-AutoCAD files for the M5Stack Protoboard
+AutoCAD files for the M5Stack Protoboard in DXF and DWG format. These were manually developed using data culled from the Altium Designer files (I only have a viewer) for use in developing custom PCB's in other PCB board design systems. Two views are provided - one for each side. Design elements are on layers to help cull out what may be needed for custom board designs. 
+Dimensions, pad sizes, hole sizes, etc., were pulled by querying components within the Alitum Designer viewer. Should be an accurate match based on the PCB design file but plesae let me know if you find any errors. 
